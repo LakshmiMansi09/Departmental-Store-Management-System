@@ -1,0 +1,2 @@
+MySQL Community Server 5.7.43
+mysql-connector==2.2.9
